@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rimon18801
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on bioinformatics 
+- 💞️ I’m looking to collaborate on bioinformatics project
 - 📫 How to reach me message me on whatsapp +8801729999623
 
 <!---
